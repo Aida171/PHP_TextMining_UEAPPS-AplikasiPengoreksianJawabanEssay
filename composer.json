@@ -1,0 +1,12 @@
+{
+    "name": "user/ueapps",
+    "description": "Aplikasi ujian essay",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+    	"sastrawi/sastrawi": "~1",
+    	"sastrawi/tokenizer": "0.*"
+    }
+
+
+}
